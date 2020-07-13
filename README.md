@@ -1,6 +1,7 @@
 # 12HR-HACKATHON-SMARTER-SOLUTIONS-TO-FIGHT-COVID-19
 
-This is React JS web based application.
+LINK TO THE VIDEO EXPLAINATION:   https://drive.google.com/drive/folders/1vJjHIw5QS5prw2i3jis4CX57lGgxfCaU
+This is Web based application(JS, HTML, CSS).
 Make sure to install the node modules with the following command: run
           
     npm i && npm start
